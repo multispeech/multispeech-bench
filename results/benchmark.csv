@@ -1,0 +1,8 @@
+Rank,Method,Accuracy,F1 Score,Speed (ms),Parameters (M),Paper Link
+1,Your Method,95.2,0.951,12.3,45.2,https://arxiv.org/abs/example1
+2,Baseline A,94.8,0.945,10.1,52.1,https://arxiv.org/abs/example2
+3,Baseline B,93.5,0.932,15.2,38.9,https://arxiv.org/abs/example3
+4,Method C,92.1,0.918,8.5,61.3,https://arxiv.org/abs/example4
+5,Method D,91.8,0.915,14.7,42.6,https://arxiv.org/abs/example5
+6,Traditional Approach,89.5,0.892,20.3,28.4,https://arxiv.org/abs/example6
+7,Deep Learning Baseline,88.2,0.879,18.9,95.7,https://arxiv.org/abs/example7
